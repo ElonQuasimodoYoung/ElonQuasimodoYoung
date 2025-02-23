@@ -55,4 +55,4 @@ Welcome to my Github page! I am Elon Young and am currently completing the final
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21~bgwhite.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21~bgwhite.svg"></code>
 </p>
-If you want to know more, please refer to the my [website](https://zhanglina94.github.io).
+If you want to know more about technical contents, please refer to <a href="https://elonquasimodoyoung.github.io/donghaoyang/">my website</a> 🚀 <I><b>coming soon</b></i>.
