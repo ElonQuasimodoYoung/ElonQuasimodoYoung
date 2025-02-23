@@ -13,19 +13,22 @@ Welcome to my Github page! I am Elon Young and am currently completing the final
 #### 🌱 Things I am currently working on 🌱 : 
 - Finish the capstone project of my master's degree.
 - I work part-time as a front-end engineer at an IT company in Melbourne.
-- [My website](https://elonquasimodoyoung.github.io/donghaoyang/) 🚀 *coming soon*
+- [My website and technical portfolio](https://elonquasimodoyoung.github.io/donghaoyang/). 🚀 *coming soon*
+- Prepare for the AWS SAA exam.
+- Prepare interviews for a full-time job as a front-end engineer.
  
  
 #### 💪 Things recent ones I'm interested in 💪 : 
-- Chat GPT
-- Stable Diffusion
-- Image generation
-- Layout2image
-- pix2pix
+- Network programming implementing TCP protocol.
+- Webpack.
+- The theory of browser.
+  
 #### 🌻 I am studying 🌻
-- IELTS
-- French
-- German
+- PTE English test
+- Flutter
+- Data structure and algorithm.
+- MySQL underlying theory.
+
 #### :computer: My technical skills :computer: : 
 <p>
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=ElonQuasimodoYoung&show_icons=true&hide_border=false" />
