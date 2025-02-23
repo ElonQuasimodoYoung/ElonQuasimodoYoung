@@ -28,7 +28,6 @@ Welcome to my Github page! I am Elon Young and am currently completing the final
 - German
 #### :computer: Programming languages and tools :computer: : 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
@@ -40,6 +39,9 @@ Welcome to my Github page! I am Elon Young and am currently completing the final
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/broccolijs/broccolijs-ar21.svg"></code>
+<br />
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=ElonQuasimodoYoung&show_icons=true&hide_border=false" />
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElonQuasimodoYoung&show_icons=true&hide_border=false" />
 </p>
 <sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/zhanglina94/zhanglina94/img/pic.jpg)</sub>
 If you want to know more, please refer to the my [website](https://zhanglina94.github.io).
