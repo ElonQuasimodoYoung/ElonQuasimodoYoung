@@ -7,7 +7,7 @@
  
 Welcome to my Github page! I am Elon Young and am currently completing the final semester of my Master of Software Engineer degree at the University of Melbourne.
 
-<img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/ElonQuasimodoYoung/ElonQuasimodoYoung/blob/main/DonghaoYang1.JPG" width="30%" height="auto" />
  
  
 #### 🌱 Things I am currently working on 🌱 : 
